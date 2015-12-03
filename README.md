@@ -1,4 +1,3 @@
 # training1
-
-just a small edit to test setting.... 
+# GIT training 04/12/2015
 
